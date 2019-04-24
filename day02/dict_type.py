@@ -45,7 +45,7 @@ def str2dict():
 
 
 if __name__ == '__main__':
-    # str2dict()
+     str2dict()
     # dict2str()
     # dict_add1()
     # dict_sel()
